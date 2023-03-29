@@ -1,7 +1,6 @@
-### Hi there 👋
 
+### Привет, меня зовут Минин Виталий / Hi there, I’m MininVitaliy 👋
 <!--
-Привет, меня зовут Минин Виталий / Hi there, I’m MininVitaliy
 
 
 **MininVitaliy/MininVitaliy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
