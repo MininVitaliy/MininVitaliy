@@ -7,7 +7,20 @@
 💬 Хочу внедрять IT продукт в сфере промышленного призводства
 
 МОЙ СТЕК:
-https://inform369ka.ru/wp-content/uploads/2022/10/html.png
+- VS Code
+- WebStorm
+- Figma
+- PerfectPixel
+- HTML
+- CSS
+- JavaScript
+- React
+- NodeJS
+- Githab
+- Nginx
+- Express.js
+- Mongo DB
+- PM2
 
 <!--
 
